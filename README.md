@@ -5,19 +5,17 @@ AngularJS Study
 
 ## 스터디 자료
 
-- 이곳.. https://thinkster.io/angulartutorial/a-better-way-to-learn-angularjs/ 의 글을 읽습니다.
+- [이곳](https://thinkster.io/angulartutorial/a-better-way-to-learn-angularjs/)의 글을 읽습니다.
 추후 angularJs를 가지고 뭔가를 만들어볼 수도 있겠죠?
 
 ## 스터디 방법 (아직 확정이 안됐어요!)
 
-이곳에서 방법을 보완해요!
-https://docs.google.com/document/d/1wthdLkdc8PZYLCm06bRSbxmcD15jHKh28V15804KvS0/edit?usp=sharing
+[이곳에서 방법을 보완해요!](http://goo.gl/1SDMWh)
 
 - 스터디 멤버는 자기가 읽을 분량과 글을 정합니다. 
 - 해석한 것을 깃헙에다 올립니다.
 - 읽다가 이해안되거나 의문나는 부분이 있으면 이슈게시판에 질문으로 적어 둡니다. 
-- 개영 Q&A그룹에 질문을 링크로 남깁니다.
-- https://www.facebook.com/groups/engfordevqa/
+- [개영 Q&A그룹](https://www.facebook.com/groups/engfordevqa/)에 질문을 링크로 남깁니다.
 
 ## 공부한 내용 올리는 공간
 
