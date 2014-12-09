@@ -3,11 +3,12 @@ AngularJS Study
 
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/EngForDev/AngularJSStudy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-개발자 영어 멤버들이 Angular JS 스터디 합니다~ 
+개발자 영어 멤버들이 Angular JS 스터디 합니다~  온라인으로..
 
-## 스터디 자료
+## 스터디의 목표
 
-- [A Better Way to Learn AngularJS](https://thinkster.io/angulartutorial/a-better-way-to-learn-angularjs/)라는 글을 읽습니다.
+- [A Better Way to Learn AngularJS](https://thinkster.io/angulartutorial/a-better-way-to-learn-angularjs/)를 공동번역합니다.
+- 이글에 나오는 샘플 예제를 구현해 봅니다.
 
 
 ## 스터디 방법 
