@@ -22,16 +22,14 @@ AngularJS Study
 
 ### 샘플 예제 연습하기 
 
-[이곳에서 방법을 보완해요!](http://goo.gl/1SDMWh)
-
-- 스터디 멤버는 자기가 읽을 분량과 글을 정합니다. 
-- 해석한 것을 깃헙에다 올립니다.
-- 읽다가 이해안되거나 의문나는 부분이 있으면 이슈게시판에 질문으로 적어 둡니다. 
+- javascript 소스 데모하는 사이트를 공유해서 테스트합니다.
+- 연습문제 만들어서 filter, directive만드는 연습을 합니다.
+- controller하고 module 구성하는 연습을합니다.
 
 
 ## 이야기 나누는 공간
 
 - 개발자영어페이스북그룹(https://www.facebook.com/groups/engfordev/)에서 이야기를 나눌 수도 있고요.
-- 실시간으로 이야기 나눌 때에는 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/EngForDev/AngularJSStudy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) <- 에서 채팅을 합니다. 
+- 실시간으로 이야기 나눌 때에는 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/EngForDev/AngularJSStudy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)에서 채팅을 합니다. 
 
 
