@@ -19,7 +19,7 @@ AngularJS Study
 
 ## 공부한 내용 올리는 공간
 
-https://github.com/EngFrDev/AngularJSStudy
+https://github.com/EngForDev/AngularJSStudy
 
 ## 이야기 나누는 공간
 실시간으로 채팅할 필요가 있을 때 이곳을 활용할 수 있습니다.
