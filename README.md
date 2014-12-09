@@ -26,6 +26,9 @@ https://github.com/EngFrDev/AngularJSStudy
 ## 이야기 나누는 공간
 실시간으로 채팅할 필요가 있을 때 이곳을 활용할 수 있습니다.
 https://engfordev.slack.com/messages/angularjs/
+(slack.com에서 engfordev팀에 가입하시려면, 우선 slack.com에서 회원가입을 하신후, 
+[이곳](https://docs.google.com/forms/d/1sabM5uuvGRmpLY7lem0UFb5z3qlI9euAnjScKFhImmc/viewform#start=invite)
+에서 이메일주소를 알려주세요~ 그럼 초대해드릴게요~
 
 그런데, 시차가 있고 그러니,
 게발자영어페이스북그룹(https://www.facebook.com/groups/engfordev/) 에서 얘기하다가 같이 이곳으로 넘어가면 어떨까 합니다. 
