@@ -1,6 +1,8 @@
 AngularJS Study
 ==============
 
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/EngForDev/AngularJSStudy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 개발자 영어 멤버들이 Angular JS 스터디 합니다~ 
 
 ## 스터디 자료
