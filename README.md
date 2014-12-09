@@ -28,7 +28,7 @@ AngularJS Study
 
 ## 이야기 나누는 공간
 
-- 개발자영어페이스북그룹(https://www.facebook.com/groups/engfordev/)에서 이야기를 나눌 수도 있고요.
+- 개발자영어페이스북그룹(https://www.facebook.com/groups/engfordev/) 에서 이야기를 나눌 수도 있고요.
 - 실시간으로 이야기 나눌 때에는 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/EngForDev/AngularJSStudy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)에서 채팅을 합니다. 
 
 
