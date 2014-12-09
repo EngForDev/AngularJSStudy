@@ -25,6 +25,6 @@ https://github.com/EngFrDev/AngularJSStudy
 https://engfordev.slack.com/messages/angularjs/
 
 그런데, 시차가 있고 그러니,
-게발자영어페이스북그룹(https://www.facebook.com/groups/engfordev/)에서 얘기하다가 같이 이곳으로 넘어가면 어떨까 합니다. 
+게발자영어페이스북그룹(https://www.facebook.com/groups/engfordev/) 에서 얘기하다가 같이 이곳으로 넘어가면 어떨까 합니다. 
 
 
