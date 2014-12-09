@@ -33,3 +33,6 @@ AngularJS Study
 - 실시간으로 이야기 나눌 때에는 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/EngForDev/AngularJSStudy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)에서 채팅을 합니다. 
 
 
+## 기타 추천받은 책
+- [자바스크립트 이해와 AngularJS활용](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8965400627)
+자바스크립트의 중고급 기술들과 같이 서술하면서 앵귤러 프레임워크도 같이 설명해줘서 좋다고 합니다.
