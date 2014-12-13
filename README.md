@@ -26,6 +26,32 @@ AngularJS Study
 - 연습문제 만들어서 filter, directive만드는 연습을 합니다.
 - controller하고 module 구성하는 연습을합니다.
 
+## 일자별 스터디
+
+아래의 날짜에 각 파트를 공부하죠 ㅎㅎ 마지막 날짜 죽이죠? 
+그래도 예의상 크리스마스 전,당일은 뺐슴다..
+
+각자 파트에 연결된 자료들을 읽고 공부하고, 연결되어 있는 페북글에다가 자유롭게 개념에 대한 질문이나 알게 된 것 정리 등을 적으면 어떨까 합니다. 샘플 예제하는 연습하는 것은 링크로 해당 글에다가 달면 될 것 같구요. 
+
+몇 몇 일자에는 채팅방에서 만나서 이야기를 나누죠. 
+
+* 채팅시간 - 한국시간 기준으로 - 밤 10시 - 12시 
+* [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/EngForDev/AngularJSStudy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+-12/15(월) - Part1 - 채팅방 - 
+-12/16(화) - Part2
+-12/17(수) - Part3
+-12/19(금) - Part4 - 채팅방
+-12/22(월) - Part5
+-12/23(화) - Part6
+-12/26(금) - Part7 - 채팅방
+-12/27(토) - part8 
+-12/28(일) - part9
+-12/29(월) - part10 - 채팅방
+-12/30(화) - part11
+-12/31(수) - part12 
+- 1/1 (목) - part13 - 채팅방
+
 
 ## 이야기 나누는 공간
 
