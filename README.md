@@ -38,18 +38,18 @@ AngularJS Study
 * 채팅시간 - 한국시간 기준으로 - 밤 10시 - 12시 
 * [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/EngForDev/AngularJSStudy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
--12/15(월) - Part1 - 채팅방 - 
--12/16(화) - Part2
--12/17(수) - Part3
--12/19(금) - Part4 - 채팅방
--12/22(월) - Part5
--12/23(화) - Part6
--12/26(금) - Part7 - 채팅방
--12/27(토) - part8 
--12/28(일) - part9
--12/29(월) - part10 - 채팅방
--12/30(화) - part11
--12/31(수) - part12 
+- 12/15(월) - Part1 - 채팅방 - 
+- 12/16(화) - Part2
+- 12/17(수) - Part3
+- 12/19(금) - Part4 - 채팅방
+- 12/22(월) - Part5
+- 12/23(화) - Part6
+- 12/26(금) - Part7 - 채팅방
+- 12/27(토) - part8 
+- 12/28(일) - part9
+- 12/29(월) - part10 - 채팅방
+- 12/30(화) - part11
+- 12/31(수) - part12 
 - 1/1 (목) - part13 - 채팅방
 
 
