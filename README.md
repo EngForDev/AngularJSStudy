@@ -39,7 +39,7 @@ AngularJS Study
 * [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/EngForDev/AngularJSStudy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 - 12/15(월) - Part1 - 채팅방 - [페북글](https://www.facebook.com/groups/engfordev/permalink/861245893927237/)
-- 12/16(화) - Part2 - [페북글](https://www.facebook.com/groups/engfordev/permalink/861246313927195/)
+- 12/16(화) - Part2 - 채팅방 - [페북글](https://www.facebook.com/groups/engfordev/permalink/861246313927195/)
 - 12/17(수) - Part3
 - 12/19(금) - Part4 - 채팅방
 - 12/22(월) - Part5
@@ -59,6 +59,7 @@ AngularJS Study
 - 실시간으로 이야기 나눌 때에는 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/EngForDev/AngularJSStudy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)에서 채팅을 합니다. 
 
 
-## 기타 추천받은 책
+## 기타 추천받은 책/사이트
 - [자바스크립트 이해와 AngularJS활용](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8965400627)
 자바스크립트의 중고급 기술들과 같이 서술하면서 앵귤러 프레임워크도 같이 설명해줘서 좋다고 합니다.
+- 코드아카데미 튜토리얼 - http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro
