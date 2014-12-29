@@ -21,24 +21,28 @@ AngularJS의 경우에는, 튜토리얼 몇 개좀 보고 문서를 좀 살펴�
 
 
 # Prerequisites
-# 필요한 사전 지식
+
+
 •	Moderate knowledge of HTML, CSS, and JavaScript
 •	Basic Model-View-Controller (MVC) concepts
 •	The Document Object Model (DOM)
 •	JavaScript functions, events, and error handling
 
+# 필요한 사전 지식
 
 •	HTML, CSS, JavaScript에 대한 중급 정도의 지식
-•	]Model-View-Controller]( http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) (MVC) 개념에 대한 기본적인 이해
-•	The [Document Object Model]( http://en.wikipedia.org/wiki/Document_Object_Model) (DOM)
-•	자바스크립트의 [함수]( https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions), [이벤트]( https://developer.mozilla.org/en-US/docs/Web/API/Event), [에러처리에 관한 지식]( https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch)
+•	]Model-View-Controller](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) (MVC) 개념에 대한 기본적인 이해
+•	The [Document Object Model](http://en.wikipedia.org/wiki/Document_Object_Model) (DOM)
+•	자바스크립트의 [함수](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions), [이벤트](https://developer.mozilla.org/en-US/docs/Web/API/Event), [에러처리에 관한 지식](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch)
 
 # Resources
 
 > Since AngularJS is still in its infancy relative to other JavaScript frameworks, the number of encyclopaedic resources on it is still insufficient. Therefore, the curriculum will employ a healthy number of excellent blogs in order to offer a more meaty perspective on respective topics.
 
 # 참고자료
+
 AngularJS는 여타 JavaScript 프레임워크에 비해서는 비교적 신생이기 때문에, 백과사전적인 참고자료는 아직 불충분한 실태이다. 따라서 이 커리큘럼에서는 각 주제에 대해 알찬 관점을 제공하기 위해서 훌륭한 블로그 자료를 많이 활용할 것이다. 
+
 •	Required Resources
 o	AngularJS - O'Reilly Media (available on Amazon)
 o	John Lindquist's egghead.io
@@ -60,7 +64,7 @@ o	[OneHungryMind](http://onehungrymind.com/)
 o	[year of moo](http://www.yearofmoo.com/)
 o	[Bruno Scopelliti blog](http://blog.brunoscopelliti.com/)
 
-Part 1. Kicking the Tires
+# Part 1. Kicking the Tires
 
 # 제1부.타이어 상태 점검하기
 
@@ -91,21 +95,22 @@ AngularJS 가이드 중 일부인 다음의 문서 두 개를 읽어보자. 두 
 
  
 - [AngularJS Overview](https://code.angularjs.org/1.2.26/docs/guide/concepts)
- 
-[Introduction to AngularJS](https://code.angularjs.org/1.2.26/docs/guide/introduction)
+- [Introduction to AngularJS](https://code.angularjs.org/1.2.26/docs/guide/introduction)
+- 
 ## Revving the Engine
 > Before we get on with it, we recommend this post:
 
 ## 엔진 예열하기
 출발하기 전에, 아래의 글을 읽기를 권한다. 
  
-Things I Wish I Were Told About Angular.js
+- Things I Wish I Were Told About Angular.js
 
-- [Angular.js에 대해서 내가 알았더라면 좋았을 것들]( http://ruoyusun.com/2013/05/25/things-i-wish-i-were-told-about-angular-js.html)
+- [Angular.js에 대해서 내가 알았더라면 좋았을 것들](http://ruoyusun.com/2013/05/25/things-i-wish-i-were-told-about-angular-js.html)
 
 > It goes over a handful of topics that might be helpful in building the appropriate mental models while consuming the Angular curriculum. Some, probably most, of the terms will bounce right off you until you have gone through that section of the course, but it should provide valuable context when approaching a new topic.
 
 이 포스트는 몇 가지 주제에 대해 다루는데, 이 Angular 커리큘럼 소화에 있어서 필요한 큰 틀을 내부적으로 만들어 두는 데 도움이 될 것이다. 이 글에 나오는 몇 가지 용어, 아마도 거의 대부분,는 대부분 그냥 머리에서 튕겨나올 것이다. 하지만 이 코스의 다음 섹션에서 해당 개념을 다루는 부분을 읽으면 이해가 될 것이다. 그래도 미리 이 글을 읽어두자. 이러한 개념들을 접해두면, 이 개념들이 어떤 맥락에 위치하는 지 파악할 수 있을 것이다.  
 
 > Now it's off to the races!
-<strong>이제 경주를 시작해 보자!</strong>
+
+이제 경주를 시작해 보자!
