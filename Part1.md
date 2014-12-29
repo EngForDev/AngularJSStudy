@@ -23,17 +23,17 @@ AngularJS의 경우에는, 튜토리얼 몇 개좀 보고 문서를 좀 살펴�
 # Prerequisites
 
 
-•	Moderate knowledge of HTML, CSS, and JavaScript
-•	Basic Model-View-Controller (MVC) concepts
-•	The Document Object Model (DOM)
-•	JavaScript functions, events, and error handling
+- Moderate knowledge of HTML, CSS, and JavaScript
+-	Basic Model-View-Controller (MVC) concepts
+-	The Document Object Model (DOM)
+-	JavaScript functions, events, and error handling
 
 # 필요한 사전 지식
 
-•	HTML, CSS, JavaScript에 대한 중급 정도의 지식
-•	]Model-View-Controller](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) (MVC) 개념에 대한 기본적인 이해
-•	The [Document Object Model](http://en.wikipedia.org/wiki/Document_Object_Model) (DOM)
-•	자바스크립트의 [함수](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions), [이벤트](https://developer.mozilla.org/en-US/docs/Web/API/Event), [에러처리에 관한 지식](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch)
+-	HTML, CSS, JavaScript에 대한 중급 정도의 지식
+-	[Model-View-Controller](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) (MVC) 개념에 대한 기본적인 이해
+- The [Document Object Model](http://en.wikipedia.org/wiki/Document_Object_Model) (DOM)
+- 자바스크립트의 [함수](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions), [이벤트](https://developer.mozilla.org/en-US/docs/Web/API/Event), [에러처리에 관련 지식](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch)
 
 # Resources
 
@@ -43,26 +43,28 @@ AngularJS의 경우에는, 튜토리얼 몇 개좀 보고 문서를 좀 살펴�
 
 AngularJS는 여타 JavaScript 프레임워크에 비해서는 비교적 신생이기 때문에, 백과사전적인 참고자료는 아직 불충분한 실태이다. 따라서 이 커리큘럼에서는 각 주제에 대해 알찬 관점을 제공하기 위해서 훌륭한 블로그 자료를 많이 활용할 것이다. 
 
-•	Required Resources
-o	AngularJS - O'Reilly Media (available on Amazon)
-o	John Lindquist's egghead.io
-o	AngularJS docs
-•	Supplemental Resources
-o	Ben Nadel blog
-o	OneHungryMind
-o	year of moo
-o	Bruno Scopelliti blog
+### Required Resources
+-	AngularJS - O'Reilly Media (available on Amazon)
+-	John Lindquist's egghead.io
+-	AngularJS docs
+
+###	Supplemental Resources
+-	Ben Nadel blog
+-	OneHungryMind
+-	year of moo
+-	Bruno Scopelliti blog
 
 
-•	Required Resources
-o	[AngularJS - O'Reilly Media] (http://shop.oreilly.com/product/0636920028055.do)available on [Amazon](http://www.amazon.com/AngularJS-Brad-Green/dp/1449344852/ref=sr_1_1?ie=UTF8&qid=1372874049&sr=8-1&keywords=angularjs))
-o	[John Lindquist's egghead.io](http://www.egghead.io/)
-o	[AngularJS docs](http://docs.angularjs.org/)
-•	Supplemental Resources
-o	[Ben Nadel blog](http://www.bennadel.com/)
-o	[OneHungryMind](http://onehungrymind.com/)
-o	[year of moo](http://www.yearofmoo.com/)
-o	[Bruno Scopelliti blog](http://blog.brunoscopelliti.com/)
+###	Required Resources
+- [AngularJS - O'Reilly Media] (http://shop.oreilly.com/product/0636920028055.do)available on [Amazon](http://www.amazon.com/AngularJS-Brad-Green/dp/1449344852/ref=sr_1_1?ie=UTF8&qid=1372874049&sr=8-1&keywords=angularjs))
+-	[John Lindquist's egghead.io](http://www.egghead.io/)
+-	[AngularJS docs](http://docs.angularjs.org/)
+
+###	Supplemental Resources
+-	[Ben Nadel blog](http://www.bennadel.com/)
+-	[OneHungryMind](http://onehungrymind.com/)
+-	[year of moo](http://www.yearofmoo.com/)
+-	[Bruno Scopelliti blog](http://blog.brunoscopelliti.com/)
 
 # Part 1. Kicking the Tires
 
@@ -96,14 +98,16 @@ AngularJS 가이드 중 일부인 다음의 문서 두 개를 읽어보자. 두 
  
 - [AngularJS Overview](https://code.angularjs.org/1.2.26/docs/guide/concepts)
 - [Introduction to AngularJS](https://code.angularjs.org/1.2.26/docs/guide/introduction)
-- 
+
+
 ## Revving the Engine
 > Before we get on with it, we recommend this post:
 
+- Things I Wish I Were Told About Angular.js
+
+
 ## 엔진 예열하기
 출발하기 전에, 아래의 글을 읽기를 권한다. 
- 
-- Things I Wish I Were Told About Angular.js
 
 - [Angular.js에 대해서 내가 알았더라면 좋았을 것들](http://ruoyusun.com/2013/05/25/things-i-wish-i-were-told-about-angular-js.html)
 
