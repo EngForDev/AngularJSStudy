@@ -121,8 +121,7 @@ The first kind of new markup are the so called "directives". They apply special 
 - - - -
 **Custom directives to access the DOM:** In Angular, the only place where an application should access the DOM is within directives. This is important because artifacts that access the DOM are hard to test. If you need to access the DOM directly you should write a custom directive for this. The directives guide explains how to do this.
 
-> **DOM에 접근하기 위한 사용자 정의 directives:** Angular에서, application이 DOM에 접근할 수 있는 유일한 곳은 directives 안 입니다. 이것은 DOM에 접근하기 위해 임의로 만들어진 코드들을 테스트하기는 힘들기 때문에 중요합니다. 만약 DOM에 직접적으로 접근할 필요가 있다면, 그것에 대한 사용자 정의 directive를 만드는 것이 좋습니다. directives 가이드에서 그것을 만드는 법을 설명합니다.
-
+**DOM에 접근하기 위한 사용자 정의 directives:** Angular에서, application이 DOM에 접근할 수 있는 유일한 곳은 directives 안 입니다. 이것은 DOM에 접근하기 위해 임의로 만들어진 코드들을 테스트하기는 힘들기 때문에 중요합니다. 만약 DOM에 직접적으로 접근할 필요가 있다면, 그것에 대한 사용자 정의 directive를 만드는 것이 좋습니다. directives 가이드에서 이것을 만드는 법을 설명합니다.
 - - - -
 
 The second kind of new markup are the double curly braces {{ expression | filter }}: When the compiler encounters this markup, it will replace it with the evaluated value of the markup. An "expression" in a template is a JavaScript-like code snippet that allows to read and write variables. Note that those variables are not global variables. Just like variables in a JavaScript function live in a scope, Angular provides a "scope" for the variables accessible to expressions. The values that are stored in variables on the scope are referred to as the "model" in the rest of the documentation. Applied to the example above, the markup directs Angular to "take the data we got from the input widgets and multiply them together”.
