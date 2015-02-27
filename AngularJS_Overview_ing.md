@@ -89,7 +89,7 @@ In the following example we will build a form to calculate the costs of an invoi
 Let's start with input fields for quantity and cost whose values are multiplied to produce the total of the invoice:<br>
 > 청구서의 합계를 산출하기 위해 값들이 서로 곱해지는 수량과 비용을 위한 input 필드로 시작해 봅시다.
 
-> [예제링크] (http://plnkr.co/edit/AGC0fcS2oZYWqqqfiaCM?p=preview)
+html 소스 코드 [예제링크] (http://plnkr.co/edit/AGC0fcS2oZYWqqqfiaCM?p=preview "plunker 로 이동")
 
 
     <div ng-app ng-init="qty=1;cost=2">
